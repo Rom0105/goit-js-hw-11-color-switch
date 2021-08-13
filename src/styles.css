@@ -1,7 +1,15 @@
-.btn {
-  margin-top: 300px;
+h1 {
   display: flex;
   justify-content: center;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+.block-up {
+  margin-top: 300px;
 }
 
 button {
@@ -18,9 +26,11 @@ button {
 .btn-start:hover,
 .btn-start:focus {
   background-color: rgb(239, 255, 255);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 .btn-stop:hover,
 .btn-stop:focus {
   background-color: rgb(239, 255, 255);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
