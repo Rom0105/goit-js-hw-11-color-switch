@@ -16,7 +16,7 @@ button {
   padding: 10px 50px;
   cursor: pointer;
   background-color: orange;
-  border-radius: 6px;
+  border-radius: 10px;
 }
 
 .btn-start {
